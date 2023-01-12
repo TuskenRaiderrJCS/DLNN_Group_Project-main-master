@@ -1,0 +1,108 @@
+workbench.desktop.main.js:sourcemap:2053 Overwriting grammar scope name to file mapping for scope text.tex.
+Old grammar file: file:///c%3A/Users/JoaoCravinhoSantos/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/extensions/latex/syntaxes/TeX.tmLanguage.json.
+New grammar file: file:///c%3A/Users/JoaoCravinhoSantos/.vscode/extensions/james-yu.latex-workshop-9.4.4/syntax/TeX.tmLanguage.json
+register @ workbench.desktop.main.js:sourcemap:2053
+workbench.desktop.main.js:sourcemap:2053 Overwriting grammar scope name to file mapping for scope text.tex.latex.
+Old grammar file: file:///c%3A/Users/JoaoCravinhoSantos/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/extensions/latex/syntaxes/LaTeX.tmLanguage.json.
+New grammar file: file:///c%3A/Users/JoaoCravinhoSantos/.vscode/extensions/james-yu.latex-workshop-9.4.4/syntax/LaTeX.tmLanguage.json
+register @ workbench.desktop.main.js:sourcemap:2053
+workbench.desktop.main.js:sourcemap:2053 Overwriting grammar scope name to file mapping for scope text.bibtex.
+Old grammar file: file:///c%3A/Users/JoaoCravinhoSantos/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/extensions/latex/syntaxes/Bibtex.tmLanguage.json.
+New grammar file: file:///c%3A/Users/JoaoCravinhoSantos/.vscode/extensions/james-yu.latex-workshop-9.4.4/syntax/Bibtex.tmLanguage.json
+register @ workbench.desktop.main.js:sourcemap:2053
+workbench.desktop.main.js:sourcemap:2053 Overwriting grammar scope name to file mapping for scope text.tex.markdown_latex_combined.
+Old grammar file: file:///c%3A/Users/JoaoCravinhoSantos/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/extensions/latex/syntaxes/markdown-latex-combined.tmLanguage.json.
+New grammar file: file:///c%3A/Users/JoaoCravinhoSantos/.vscode/extensions/james-yu.latex-workshop-9.4.4/syntax/markdown-latex-combined.tmLanguage.json
+register @ workbench.desktop.main.js:sourcemap:2053
+workbench.desktop.main.js:sourcemap:2053 Overwriting grammar scope name to file mapping for scope source.cpp.embedded.latex.
+Old grammar file: file:///c%3A/Users/JoaoCravinhoSantos/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/extensions/latex/syntaxes/cpp-grammar-bailout.tmLanguage.json.
+New grammar file: file:///c%3A/Users/JoaoCravinhoSantos/.vscode/extensions/james-yu.latex-workshop-9.4.4/syntax/cpp-grammar-bailout.tmLanguage.json
+register @ workbench.desktop.main.js:sourcemap:2053
+index.html?id=5034caff-3781-45d4-b3bc-c146fe35c9b0&origin=7a3ed434-9f58-4126-b1f4-353106a5d61f&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&purpose=notebookRenderer:899 Webview fatal error: Error: Could not register service workers: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..
+(anonymous) @ index.html?id=5034caff-3781-45d4-b3bc-c146fe35c9b0&origin=7a3ed434-9f58-4126-b1f4-353106a5d61f&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&purpose=notebookRenderer:899
+workbench.desktop.main.js:sourcemap:774 Error loading webview: Error: Could not register service workers: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..
+c @ workbench.desktop.main.js:sourcemap:774
+workbench.desktop.main.js:sourcemap:89 [Extension Host] rejected promise not handled within 1 second: TypeError: u.replace is not a function
+E @ workbench.desktop.main.js:sourcemap:89
+workbench.desktop.main.js:sourcemap:89 [Extension Host] stack trace: TypeError: u.replace is not a function
+	at y.file (c:\Users\JoaoCravinhoSantos\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:66:18417)
+	at E (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2522836)
+	at d.fromJSON (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2206866)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119702
+	at Array.map (<anonymous>)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119663
+	at k.listKernelsFirstTimeFromMemento (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119822)
+	at k.activate (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2134868)
+	at p.initializeFinder (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2140796)
+	at p.activate (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2140043)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:17:163984
+	at Array.map (<anonymous>)
+	at c.activateSync (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:17:163974)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:1576749
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+E @ workbench.desktop.main.js:sourcemap:89
+workbench.desktop.main.js:sourcemap:2153 [[object Object]]u.replace is not a function
+$onExtensionRuntimeError @ workbench.desktop.main.js:sourcemap:2153
+workbench.desktop.main.js:sourcemap:2153 TypeError: u.replace is not a function
+	at y.file (c:\Users\JoaoCravinhoSantos\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:66:18417)
+	at E (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2522836)
+	at d.fromJSON (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2206866)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119702
+	at Array.map (<anonymous>)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119663
+	at k.listKernelsFirstTimeFromMemento (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119822)
+	at k.activate (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2134868)
+	at p.initializeFinder (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2140796)
+	at p.activate (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2140043)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:17:163984
+	at Array.map (<anonymous>)
+	at c.activateSync (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:17:163974)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:1576749
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+$onExtensionRuntimeError @ workbench.desktop.main.js:sourcemap:2153
+workbench.desktop.main.js:sourcemap:89 [Extension Host] rejected promise not handled within 1 second: TypeError: u.replace is not a function
+E @ workbench.desktop.main.js:sourcemap:89
+workbench.desktop.main.js:sourcemap:89 [Extension Host] stack trace: TypeError: u.replace is not a function
+	at y.file (c:\Users\JoaoCravinhoSantos\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:66:18417)
+	at E (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2522836)
+	at d.fromJSON (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2206866)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119702
+	at Array.map (<anonymous>)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119663
+	at k.listKernelsFirstTimeFromMemento (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119822)
+	at k.activate (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2134868)
+	at p.initializeFinder (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2140796)
+	at p.activate (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2140043)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:17:163984
+	at Array.map (<anonymous>)
+	at c.activateSync (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:17:163974)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:1576749
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+E @ workbench.desktop.main.js:sourcemap:89
+workbench.desktop.main.js:sourcemap:2153 [[object Object]]u.replace is not a function
+$onExtensionRuntimeError @ workbench.desktop.main.js:sourcemap:2153
+workbench.desktop.main.js:sourcemap:2153 TypeError: u.replace is not a function
+	at y.file (c:\Users\JoaoCravinhoSantos\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:66:18417)
+	at E (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2522836)
+	at d.fromJSON (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2206866)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119702
+	at Array.map (<anonymous>)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119663
+	at k.listKernelsFirstTimeFromMemento (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2119822)
+	at k.activate (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2134868)
+	at p.initializeFinder (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2140796)
+	at p.activate (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:2140043)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:17:163984
+	at Array.map (<anonymous>)
+	at c.activateSync (c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:17:163974)
+	at c:\Users\JoaoCravinhoSantos\.vscode\extensions\ms-toolsai.jupyter-2022.11.1003412109\out\extension.node.js:2:1576749
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+$onExtensionRuntimeError @ workbench.desktop.main.js:sourcemap:2153
+workbench.desktop.main.js:sourcemap:89 [Extension Host] Starting WebSocket: RAW/api/kernels/60e0f728-daef-4351-adff-2a6a7b0822a7
+workbench.desktop.main.js:sourcemap:1925 Extension Host
+workbench.desktop.main.js:sourcemap:1925 Starting WebSocket: RAW/api/kernels/60e0f728-daef-4351-adff-2a6a7b0822a7
+
+workbench.desktop.main.js:sourcemap:89 [Extension Host] Kernel: starting (60e0f728-daef-4351-adff-2a6a7b0822a7)
+workbench.desktop.main.js:sourcemap:1925 Extension Host
+workbench.desktop.main.js:sourcemap:1925 Kernel: starting (60e0f728-daef-4351-adff-2a6a7b0822a7)
+
